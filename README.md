@@ -18,5 +18,3 @@ Drama, Comedy and Action are the top 3 most produced genres.
 The most produced genre does not equate the most popular genre.
 Budget most of the time affects the popularity and profit to be realised from the movie production.
 Release Year does not have effect on the popularity of a movie.
-
-![image](https://user-images.githubusercontent.com/81045275/183260407-2e0c0ee8-63da-4446-91c9-c7e70167aca6.png)
