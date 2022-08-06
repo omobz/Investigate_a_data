@@ -1,4 +1,4 @@
-# Investigate_a_data
+# Investigate a data
 Udacity Data Analyst Nanodegree - Investigate TMDB Movie Dataset
 
 ## Introduction
